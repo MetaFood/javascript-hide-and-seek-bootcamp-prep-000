@@ -1,4 +1,4 @@
 function getFirstSelector(selector) {
-  return querySelectorAll(selector);
+  return document.querySelectorAll(selector);
 }
 function nestedTarget()
